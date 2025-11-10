@@ -20,3 +20,11 @@ trading/config/kis_*.yaml
 examples/dashboard/build/
 examples/dashboard/dist/
 examples/dashboard/node_modules/
+
+# Python 캐시 및 로그
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.log.*
+ai_bot_*.log
