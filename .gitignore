@@ -38,3 +38,7 @@ reports/*
 !reports/.gitkeep
 html_reports/*
 !html_reports/.gitkeep
+
+# GitHub Actions workflows (로컬 전용 - 권한 문제로 푸시 불가)
+# 참고: WORK_SUMMARY.md에 문서화됨
+.github/workflows/
