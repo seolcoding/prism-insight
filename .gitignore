@@ -28,3 +28,7 @@ __pycache__/
 *.log
 *.log.*
 ai_bot_*.log
+
+# 로그 디렉토리 (gitkeep만 추적)
+logs/*
+!logs/.gitkeep
