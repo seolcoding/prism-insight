@@ -32,3 +32,9 @@ ai_bot_*.log
 # 로그 디렉토리 (gitkeep만 추적)
 logs/*
 !logs/.gitkeep
+
+# 보고서 디렉토리 (테스트로 생성된 파일 제외)
+reports/*
+!reports/.gitkeep
+html_reports/*
+!html_reports/.gitkeep
